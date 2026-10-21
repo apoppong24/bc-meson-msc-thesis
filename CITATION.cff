@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "B_c Meson Masses (MSc thesis and original notebooks)"
+authors:
+  - family-names: Oppong
+    given-names: Peter Agyemang
+    orcid: "https://orcid.org/0009-0009-4678-0034"
+    affiliation: "University of Glasgow"
+repository-code: "https://github.com/apoppong24/bc-meson-msc-thesis"
+type: software
+doi: 10.5281/zenodo.23533575
+preferred-citation:
+  type: thesis
+  title: "B_c Meson Masses"
+  authors:
+    - family-names: Oppong
+      given-names: Peter Agyemang
+      orcid: "https://orcid.org/0009-0009-4678-0034"
+  thesis-type: "MSc thesis"
+  institution:
+    name: "University of Glasgow"
+  year: 2022
+  doi: 10.5281/zenodo.23533575

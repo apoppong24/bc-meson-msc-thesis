@@ -1,5 +1,7 @@
 # B_c Meson Masses — MSc thesis and original code
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--4678--0034-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4678-0034)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23533575.svg)](https://doi.org/10.5281/zenodo.23533575)
 
 **Peter Agyemang Oppong**
