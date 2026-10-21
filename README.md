@@ -1,8 +1,15 @@
 # B_c Meson Masses — MSc thesis and original code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23534192.svg)](https://doi.org/10.5281/zenodo.23534192)
+
 **Peter Agyemang Oppong**
-MSc project, School of Physics and Astronomy, University of Glasgow.
+MSc project, School of Physics and Astronomy, University of Glasgow (submitted 2022).
 Supervisor: Prof. Christine Davies.
+
+A revised edition (October 2026) — the submitted text with a list of corrections
+and a postscript on the 2026 B_c* observation — is archived on Zenodo:
+P. A. Oppong, *B_c Meson Masses*, MSc thesis, University of Glasgow,
+revised edition (2026), https://doi.org/10.5281/zenodo.23534192.
 
 This repository is the archival record of the project exactly as it was
 submitted: the thesis PDF and the eight Jupyter notebooks that produced its
